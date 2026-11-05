@@ -22,7 +22,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)**, focado e
 
 ---
 
-### 📈 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=EnildoNA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -31,6 +31,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (2º semestre)**, focado e
 
 ---
 
-### 📬 Onde me encontrar
+### Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enildo-nascimento-de-arruda-284350318)
